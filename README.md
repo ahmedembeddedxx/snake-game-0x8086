@@ -65,5 +65,3 @@ main.com
 If you have any questions, suggestions, or issues, please feel free to contact the author at [business.ahmadabdullah@gmail.com].
 
 Enjoy the game!
-
-Feel free to modify and expand this README to provide more details about your specific Snake game in Assembly 8086. You can add information about the game's features, the game loop, any customizations, and more.
